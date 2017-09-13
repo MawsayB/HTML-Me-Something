@@ -1,0 +1,43 @@
+*{
+    color: white;
+    background-color: #1e90ff;
+    font-family: Bookman Old Style;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+footer{
+    font-size: 14px;
+}
+
+#intro{
+    background-color: lawngreen;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+}
+
+.lime{
+    background-color: lawngreen;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 10px;
+    color: black;
+}
+
+.navy{
+    background-color: navy;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.link{
+    background-color:#1e90ff;
+    color: navy;
+}
